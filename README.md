@@ -4,7 +4,7 @@
 
 ## Usage
 
-Infinitely scrolling web application! Open this application on a phone and scroll to your hearts desire through an endless list of messages. Swipe right on a message to clear it from a list. Enjoy!
+Infinitely scrolling web application! Open this application on a phone and scroll to your hearts desire through an endless list of messages. Swipe right on a message to clear it from a list. This application should be run ina mobile browser.
 
 [Live Demo](https://goo.gl/3XNfYE)
 
